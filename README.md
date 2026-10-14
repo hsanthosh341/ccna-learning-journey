@@ -1,2 +1,4 @@
 # ccna-learning-journey
-My learning journey in networking and CCNA.
+Welcome to my CCNA learning journey.
+This repository documents my progress as I learn CCNA concepts.
+
