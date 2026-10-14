@@ -1,0 +1,17 @@
+Topic studied:
+-what is networking?
+  connects two or more devices together.
+-intranet and internet
+-scope of networking
+  scalability
+  distance
+  easy to handle huge network system
+
+shortcuts:
+ncpa.cpl - can use in cmd to open control panel network interface
+ipconfig - used to check ip configuration of desktop
+ping - to verify the connectivity
+
+key points:
+* default packet is 4.
+* we assign IP address to NIC not PC
